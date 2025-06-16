@@ -1,0 +1,6 @@
+@GestorEscuelas_HostAddress = http://localhost:5180
+
+GET {{GestorEscuelas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
